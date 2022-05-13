@@ -1,0 +1,6 @@
+
+spring:
+  datasource:
+    url: jdbc:mysql://34.67.36.240:3306/cyclonefit
+    username: 'sharad'
+    password: 'deloitte'
